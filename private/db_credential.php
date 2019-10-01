@@ -1,7 +1,7 @@
 <?php
 
-    define("DB_SERVER", "localhost");
-    define("DB_USER", "root");
-    define("DB_PASS", "root1234");
-    define("DB_NAME", "globe_bank");
+    define("DB_SERVER", "server_name");
+    define("DB_USER", "username");
+    define("DB_PASS", "pass");
+    define("DB_NAME", "name");
 ?>
